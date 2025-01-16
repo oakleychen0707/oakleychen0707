@@ -22,4 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oakleychen0707&show_icons=true&locale=en&layout=compact" alt="oakleychen0707" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oakleychen0707&show_icons=true&locale=en" alt="oakleychen0707" /></p>
+![oakleychen0707's Stats](https://github-readme-stats.vercel.app/api?username=oakleychen0707&theme=default&show_icons=true&hide_border=false&count_private=true)
+
+![oakleychen0707's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oakleychen0707&theme=default&hide_border=false)
