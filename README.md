@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oakleychen0707&label=Profile%20views&color=0e75b6&style=plastic" alt="oakleychen0707" /> </p>
 
-- 🔭 I’m currently working on **ASUSCloud**
+- 🔭 I’m currently working on **ASUSCloud ☁️**
 
 - 🌱 I’m currently learning **Android, Flutter**
 
-- 💬 Ask me about **Application**
+- 💬 Ask me about **Application 📱**
 
 - 📫 How to reach me **coco404100402@gmail.com**
 
-- ⚡ Fun fact **I'm very short.**
+- ⚡ Fun fact **Work is very tiring. 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
