@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Application 📱**
 
-- 📫 How to reach me **coco404100402@gmail.com**
+- 📫 How to reach me **oakley.chen77@gmail.com**
 
 - ⚡ Fun fact **Work is very tiring. 😅**
 
